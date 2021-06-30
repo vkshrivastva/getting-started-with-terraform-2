@@ -1,6 +1,6 @@
 locals {
-  region = "us-south"
-  zone   = "us-south-1"
+  region = "us-east"
+  zone   = "us-east-1"
   prefix = "training-tf"
 }
 
